@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.xlsm linguist-detectable=true
+*.xlsm linguist-documentation=false
+*.xlsm linguist-language=VBA
